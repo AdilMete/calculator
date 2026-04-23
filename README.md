@@ -1,3 +1,9 @@
+## 📥 İndir
+
+Uygulamayı doğrudan bilgisayarınızda çalıştırmak için aşağıdaki bağlantıdan en güncel sürümü indirebilirsiniz:
+
+[**Ahsen Multi-Tool v1.0.0 İndir (.exe)**](https://github.com/AdilMete/calculator/releases/latest)
+
 Ahsen Multi-Tool Pro v5.2
 Bu proje, Python programlama dili ve CustomTkinter kütüphanesi kullanılarak geliştirilmiş, modern arayüzlü ve çok fonksiyonlu bir masaüstü hesaplama aracıdır. Standart hesap makinelerinin ötesinde, bilimsel hesaplamalar ve birim dönüştürme özelliklerini tek bir çatıda toplar.
 
